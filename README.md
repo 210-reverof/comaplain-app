@@ -8,20 +8,20 @@
 
 # UN-SDGs In This Project
 
-<img src="/comaplain/assets/README/UN-SDGs_11.png" width="100%" />
+<img src="/assets/README/UN-SDGs_11.png" width="100%" />
 
 There are many things that are unknowingly dangerous and uncomfortable in our modern society. Even though we are aware of these dangerous and inconvenient things, we will often have an experience of sitting on the sidelines because we have no damage to ourselves and are cumbersome to report. These problems will destroy the creation of sustainable cities and residences. To solve and improve this, our Peek-A-Boom has developed Comaplain, a communication application that reports and solves dangerous or inconvenient things around us.
 
 
 
 # Google Technology In This Project
-<img src="/comaplain/assets/README/flutter_logo.png" width="50%" />
+<img src="/assets/README/flutter_logo.png" width="50%" />
 This project used Flutter for building "comaplain" app.   
 
-<img src="/comaplain/assets/README/firebase_logo.png" width="45%" />
+<img src="/assets/README/firebase_logo.png" width="45%" />
 This project used Firebase for using Google Sign in.     
 
-<img src="/comaplain/assets/README/google_cloud_logo.png" width="50%" />
+<img src="/assets/README/google_cloud_logo.png" width="50%" />
 This project used Google Cloud Platform to use a VM for this project's server.   
 
 
@@ -108,25 +108,25 @@ Check the information you have shared.
 
 - Splash screen
 
-<img src="/comaplain/assets/README/Screenshot_1646724957.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646724970.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646724957.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646724970.png" width="200" height="400"/>
 
 This application can be described with two keywords. These are **"complain"** and **"map"**. You can simply **complain** about some dangerous or uncomfortable things you find on your way by taking pictures and putting an explanation using this application. Then, our application **maps** the location of your report on the map screen so that it is easy to recognize where it happened. This splash screen shows these concepts.
 
 - Main screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725004.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725062.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725004.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725062.png" width="200" height="400"/>
 
 The main screen shows a network map of reports within your 10km radius. Therefore, you can see how many kinds of reports have been received at a glance. If you click a specific circle icon on the visualization board, you can see the information bar that can reach the report detail screen. You can click this bar to get more information about the report or you can simply check the title and category of reports at the bottom of the visualization board.
 
 - Map screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725095.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725104.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725121.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725095.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725104.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725121.png" width="200" height="400"/>
 
 On the map screen, you can get information about the location of reports. This screen displays report markers based on your signed-up location. But, you can also scroll, zoom in/out on the screen or just search the location to check markers based on other locations. If you click the floating button, your map screen is moved to your current location. You can see the title and explanation of the report by clicking the marker. If you tap the marker's information window, you can move to the report detail screen.
 
 - Report writing screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725133.png" width="200" height="400" align="left"/>  
+<img src="/assets/README/Screenshot_1646725133.png" width="200" height="400" align="left"/>  
 <br/>
 <br/>
 <br/>
@@ -149,19 +149,19 @@ The report writing screen appears when you click the rainbow-colored middle butt
 
 - Report list screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725155.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725161.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725166.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725155.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725161.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725166.png" width="200" height="400"/>
 
 Reports within your 10km radius are displayed in two tabs on the report list screen. The "reports" tab displays reports that haven't been solved yet. The "solved" tab displays solved reports. You can select categories that you want to display. To create a report, click the pencil icon. Also, you can search for a specific report by clicking the search icon.
 
 - Report detail screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725304.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725317.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725309.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725304.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725317.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725309.png" width="200" height="400"/>
 
 The report detail screen provides a comment function. When you click the top right button, you can see the report’s exact location on the map page.
 
 - My page screen
 
-<img src="/comaplain/assets/README/Screenshot_1646725217.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725223.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725837.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725217.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725223.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725837.png" width="200" height="400"/>
 
 You can check personal information on my page screen. If you want to see the list of your reports, click the my report tab. If you want to change your information, click the settings tab.  You can change your nickname and update your location on this tab.
 
