@@ -63,8 +63,7 @@ Check the information you have shared.
 
 ### If you are a new user
 
-- Visit this link and install ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+- Visit this link and install : https://play.google.com/store/apps/details?id=com.comaplain.comaplain
 
 
 # 📁 Directory Tree
@@ -108,19 +107,19 @@ Check the information you have shared.
 
 - Splash screen
 
-<img src="/assets/README/Screenshot_1646724957.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646724970.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646724957.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646724970.png" width="200" height="400"/>
 
 This application can be described with two keywords. These are **"complain"** and **"map"**. You can simply **complain** about some dangerous or uncomfortable things you find on your way by taking pictures and putting an explanation using this application. Then, our application **maps** the location of your report on the map screen so that it is easy to recognize where it happened. This splash screen shows these concepts.
 
 - Main screen
 
-<img src="/assets/README/Screenshot_1646725004.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725062.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725004.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725062.png" width="200" height="400"/>
 
 The main screen shows a network map of reports within your 10km radius. Therefore, you can see how many kinds of reports have been received at a glance. If you click a specific circle icon on the visualization board, you can see the information bar that can reach the report detail screen. You can click this bar to get more information about the report or you can simply check the title and category of reports at the bottom of the visualization board.
 
 - Map screen
 
-<img src="/assets/README/Screenshot_1646725095.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725104.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725121.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725095.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725104.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725121.png" width="200" height="400"/>
 
 On the map screen, you can get information about the location of reports. This screen displays report markers based on your signed-up location. But, you can also scroll, zoom in/out on the screen or just search the location to check markers based on other locations. If you click the floating button, your map screen is moved to your current location. You can see the title and explanation of the report by clicking the marker. If you tap the marker's information window, you can move to the report detail screen.
 
