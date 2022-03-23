@@ -15,13 +15,13 @@ There are many things that are unknowingly dangerous and uncomfortable in our mo
 
 
 # Google Technology In This Project
-<img src="/assets/README/flutter_logo.png" width="100%" />
+<img src="/assets/README/flutter_logo.png" width="50%" />
 This project used Flutter for building "comaplain" app.   
 
-<img src="/assets/README/firebase_logo.png" width="100%" />
+<img src="/assets/README/firebase_logo.png" width="45%" />
 This project used Firebase for using Google Sign in.     
 
-<img src="/assets/README/google_cloud_logo.png" width="100%" />
+<img src="/assets/README/google_cloud_logo.png" width="50%" />
 This project used Google Cloud Platform to use a VM for this project's server.   
 
 
