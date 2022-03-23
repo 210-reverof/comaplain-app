@@ -1,4 +1,4 @@
-<img src="/comaplain/assets/README/poster.png"/>
+<img src="/assets/README/poster.png"/>
 
 
 
@@ -148,19 +148,19 @@ The report writing screen appears when you click the rainbow-colored middle butt
 
 - Report list screen
 
-<img src="/assets/README/Screenshot_1646725155.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725161.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725166.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725155.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725161.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725166.png" width="200" height="400"/>
 
 Reports within your 10km radius are displayed in two tabs on the report list screen. The "reports" tab displays reports that haven't been solved yet. The "solved" tab displays solved reports. You can select categories that you want to display. To create a report, click the pencil icon. Also, you can search for a specific report by clicking the search icon.
 
 - Report detail screen
 
-<img src="/assets/README/Screenshot_1646725304.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725317.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725309.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725304.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725317.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725309.png" width="200" height="400"/>
 
 The report detail screen provides a comment function. When you click the top right button, you can see the report’s exact location on the map page.
 
 - My page screen
 
-<img src="/assets/README/Screenshot_1646725217.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725223.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/comaplain/assets/README/Screenshot_1646725837.png" width="200" height="400"/>
+<img src="/assets/README/Screenshot_1646725217.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725223.png" width="200" height="400"/> &nbsp;&nbsp;&nbsp; <img src="/assets/README/Screenshot_1646725837.png" width="200" height="400"/>
 
 You can check personal information on my page screen. If you want to see the list of your reports, click the my report tab. If you want to change your information, click the settings tab.  You can change your nickname and update your location on this tab.
 
@@ -188,6 +188,6 @@ You can check personal information on my page screen. If you want to see the lis
 # 🧑‍🔧
 
 - Won-young Lee : https://github.com/210-reverof
-- Ha-Jeong Lee : https://github.com/SS-hj/
-- Jun-Jang Jo : https://github.com/junjange
+- Ha-jeong Lee : https://github.com/SS-hj/
+- Jun-jang Jo : https://github.com/junjange
 - Tae-gyu Han : https://github.com/TaegyuHan
